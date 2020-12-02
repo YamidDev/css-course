@@ -1,0 +1,23 @@
+/* Selector universal */
+*{
+    background: beige;
+}
+
+/* Selector por etiqueta */
+h1 {
+    background: red;
+}
+
+/* Selector descendente */
+div p {
+    background-color: aqua;
+}
+/* Selector por clases */
+.title-one {
+    background: greenyellow;
+}
+
+/* Selecto por Id */
+#title-two {
+    background: hotpink;
+}
