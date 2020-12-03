@@ -1,25 +1,10 @@
 /* Selector universal */
-*{
+body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-p{
-    text-align: justify;
-}
-.title {
-    text-align: center;
-    color: white;
-    background: red;
-}
 
-.subtitle {
+.title, .paragraph {
+    color: azure;
     background: orange;
-    text-align: center;
-    color: bisque;
-}
-
-.paragraph {
-    font-size: 23px;
-    background: forestgreen;
-    color: antiquewhite;
 }
