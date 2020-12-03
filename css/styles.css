@@ -4,7 +4,19 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.title, .paragraph {
-    color: azure;
-    background: orange;
+.container{
+    width: 90%;
+    margin:auto;
+}
+
+.box-one {
+    background: turquoise;
+    color:#333;
+    font-size: 25px;
+} 
+
+.box-two{
+    background: brown;
+    color: wheat;
+    font-size: 25px;
 }
