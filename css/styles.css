@@ -26,3 +26,15 @@ h1:nth-child(3n+3) {
     background-color: #3E8914;
     color: antiquewhite;
 }
+a {
+    background-color: #B7D5D4;
+    color: antiquewhite;
+    font-size: 84px;
+    text-align: center;
+}
+a:hover {
+    background-color: #A9E5BB;
+    color: black;
+    font-size: 84px;
+    animation: ease;
+}
