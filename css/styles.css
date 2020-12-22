@@ -3,3 +3,7 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
+h1:first-child {
+    background-color: black;
+    color: antiquewhite;
+}
