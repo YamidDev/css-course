@@ -3,20 +3,8 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-
-.container{
-    width: 90%;
-    margin:auto;
-}
-
-.box-one {
-    background: turquoise;
-    color:#333;
-    font-size: 25px;
-} 
-
-.box-two{
-    background: brown;
-    color: wheat;
-    font-size: 25px;
+.type-block {
+    background: red;
+    color: white;
+    font-size: 35px;
 }
