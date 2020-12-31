@@ -3,38 +3,16 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-h1 {
-    background-color:  #0B6E4F;
-    color: antiquewhite;
-    font-size: 75px;
-    text-align: center;
-}
-h1:first-child {
-    background-color: #2B4162;
-    color: antiquewhite;
-}
-h1:last-child {
-    background-color: #FA9F42;
-    color: antiquewhite;
-}
-h1:nth-child(0n+3) {
-    background-color: #721817;
-    color: antiquewhite;
-}
-
-h1:nth-child(3n+3) {
-    background-color: #3E8914;
-    color: antiquewhite;
-}
-a {
-    background-color: #B7D5D4;
-    color: antiquewhite;
-    font-size: 84px;
-    text-align: center;
+a{
+    font-size: 55px;
+    text-decoration: none;
 }
 a:hover {
-    background-color: #A9E5BB;
-    color: black;
-    font-size: 84px;
+    background-color: bisque;
+    color: #3d3d3d;
     animation: ease;
+    cursor: cell;
+}
+a:link {
+    color: green;
 }

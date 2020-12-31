@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eafdd22a-f4b1-4e73-8adf-5104d22f96ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -69,7 +70,8 @@
       <workItem from="1606939942204" duration="2126000" />
       <workItem from="1608599755902" duration="12000" />
       <workItem from="1608599774007" duration="3000" />
-      <workItem from="1608599873820" duration="2347000" />
+      <workItem from="1608599873820" duration="3187000" />
+      <workItem from="1609427484332" duration="531000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1608600040787</created>
@@ -106,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608603606938</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pseudo class :hover">
+      <created>1608603959086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608603959086</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +139,7 @@
     <MESSAGE value="pseudo class first child" />
     <MESSAGE value="pseudo class last child" />
     <MESSAGE value="pseudo class last position nth-child" />
-    <option name="LAST_COMMIT_MESSAGE" value="pseudo class last position nth-child" />
+    <MESSAGE value="pseudo class :hover" />
+    <option name="LAST_COMMIT_MESSAGE" value="pseudo class :hover" />
   </component>
 </project>
