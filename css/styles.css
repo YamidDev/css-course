@@ -3,24 +3,16 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-a{
-    font-size: 55px;
-    text-decoration: none;
+.container {
+    width: 90%;
+    margin: auto;
 }
-a:hover {
-    background-color: bisque;
-    color: #3d3d3d;
-    animation: ease;
-    cursor: grab;
-}
-a:link {
-    color: green;
-}
-a:visited {
-    color: violet;
+img {
+    float: right;
+    height: 250px;
+    padding: 10px;
 }
 
-a:hover {
-    background-color: yellow;
-    color:black;
+p {
+    font-size: 23px;
 }
