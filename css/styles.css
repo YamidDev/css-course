@@ -3,3 +3,22 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
+.container {
+    border: 3px red solid;
+    height: 600px;
+    width: 700px;
+    margin-top: 30px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.container h1 {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.container h2 {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
