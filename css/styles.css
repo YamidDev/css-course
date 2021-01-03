@@ -7,12 +7,11 @@ body{
     width: 90%;
     margin: auto;
 }
-img {
-    float: right;
-    height: 250px;
-    padding: 10px;
-}
 
-p {
-    font-size: 23px;
+.block {
+    float: right;
+    width: 30.5%;
+    border: 1px #3c3c3c solid;
+    padding: 8px;
+    box-sizing: border-box;
 }
