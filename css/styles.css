@@ -3,8 +3,3 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-ol{
-    font-size: 60px;
-    margin: 100px;
-    list-style: upper-latin;
-}
