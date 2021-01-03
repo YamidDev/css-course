@@ -3,3 +3,17 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
+/* static */
+.static {
+    position: static;
+    font-size: 45px;
+    border: 4px #3d3d3d solid;
+}
+/* relative */
+.relative {
+    position: relative;
+    font-size: 45px;
+    border: 4px #3d3 solid;
+    left: 30px;
+    top: 80px;
+}
