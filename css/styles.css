@@ -3,28 +3,3 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
-.menu {
-    list-style: none;
-    background-color: brown;
-    font-size: 45px;
-    width: 350px;
-    margin: 50px;
-    padding: 0;
-    text-align: center;
-}
-
-.menu li {
-    border-bottom: 3px beige solid;
-}
-
-.menu li a {
-    text-decoration: none;
-    color: aliceblue;
-    display: block;
-    padding: 14px;
-}
-
-.menu li a:hover {
-    background-color: tomato;
-    color:black;
-}
