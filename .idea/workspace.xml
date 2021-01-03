@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eafdd22a-f4b1-4e73-8adf-5104d22f96ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -71,7 +69,8 @@
       <workItem from="1608599755902" duration="12000" />
       <workItem from="1608599774007" duration="3000" />
       <workItem from="1608599873820" duration="3187000" />
-      <workItem from="1609427484332" duration="531000" />
+      <workItem from="1609427484332" duration="2415000" />
+      <workItem from="1609440195806" duration="2054000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <created>1608600040787</created>
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608603959086</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="links">
+      <created>1609429170386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609429170387</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +146,7 @@
     <MESSAGE value="pseudo class last child" />
     <MESSAGE value="pseudo class last position nth-child" />
     <MESSAGE value="pseudo class :hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="pseudo class :hover" />
+    <MESSAGE value="links" />
+    <option name="LAST_COMMIT_MESSAGE" value="links" />
   </component>
 </project>

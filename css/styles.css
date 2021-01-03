@@ -11,8 +11,16 @@ a:hover {
     background-color: bisque;
     color: #3d3d3d;
     animation: ease;
-    cursor: cell;
+    cursor: grab;
 }
 a:link {
     color: green;
+}
+a:visited {
+    color: violet;
+}
+
+a:hover {
+    background-color: yellow;
+    color:black;
 }
