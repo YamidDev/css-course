@@ -3,3 +3,8 @@ body{
     background: beige;
     font-family: 'Courier New', Courier, monospace;
 }
+ul{
+    font-size: 60px;
+    margin: 40px;
+    list-style-image: url('/img/home.png');
+}
