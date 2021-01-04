@@ -1,15 +1,29 @@
 /* Selector universal */
-body{
-    background-image: url(/img/texture.jpg);
-    background-attachment: fixed;
-    font-family: 'Courier New', Courier, monospace;
+@font-face {
+    src: url('/fonts/Pacifico-Regular.ttf');
+    font-family: pacifico;
 }
+body{
+    background-color: beige;
+    font-family: calibri;
+}
+
 h1 {
-    color: gold;
-    font-size: 80px;
+    font-size: 150px;
+    margin: 0px;
+    color: darkblue;
+    text-align: center;
+    text-shadow: 5px 15px  darkgray;
+    font-family: pacifico;
+}
+
+h2 {
+    font-size: 40px;
+    word-spacing: 20px;
     text-align: center;
 }
+
 p {
-    color: azure;
-    font-size: 40px;
+    font-size: 30px;
+    line-height: 30px;
 }
